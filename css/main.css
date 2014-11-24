@@ -166,3 +166,8 @@ a:focus {
 section {
 	margin-bottom: 30px;
 }
+
+.open>.dropdown-menu {
+	padding-left: 0px;
+	margin-top: 0px;
+}
