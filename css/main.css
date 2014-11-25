@@ -22,7 +22,6 @@ h4,
 h5,
 h6 {
     margin: 0 0 35px;
-    text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
@@ -177,6 +176,7 @@ a:focus {
 	text-align: left;
 }
 
+
 .col-sm-4 h4 {
 	text-align: center;
 }
@@ -189,6 +189,12 @@ a:focus {
 	margin-left: auto;
     margin-right: auto;
 }
+
+.col-sm-6 li {
+	font-size: 18px;
+	margin-left:-30px;
+}
+
 section {
 	margin-bottom: 30px;
 }
