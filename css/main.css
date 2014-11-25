@@ -178,6 +178,7 @@ a:focus {
 
 .col-sm-3 {
 	text-align: left;
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .col-sm-4 h4 {
@@ -219,4 +220,5 @@ section {
 	text-align: left;
 	padding-left: 0px;
 	padding-right: 0px;
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
