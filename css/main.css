@@ -40,9 +40,18 @@ a:focus {
     color: #176e61;
 }
 
+.container {
+	text-align: center;
+}
+
 .container2 {
 	background-color: #F6F6F6;
 	padding: 3px;
+	text-align: center;
+}
+
+#container3 {
+	text-align: center;
 }
 
 .navbar {
@@ -65,9 +74,7 @@ a:focus {
 }
 
 .navbar3 ul {
-	margin-left: 11px;
 	margin-bottom: 0px;
-	padding-left: 90px;
 	padding-top: 5px;
 }
 
@@ -82,7 +89,6 @@ a:focus {
 	text-decoration: none;
 	list-style-type: none;
 	margin-top: 10px; 
-	padding-left: 90px;
 }
 
 .navbar2 ul li {
@@ -182,7 +188,6 @@ a:focus {
 	display: block; 
 	margin-left: auto;
     margin-right: auto;
-    margin-top: 125px;
 }
 section {
 	margin-bottom: 30px;
