@@ -176,6 +176,9 @@ a:focus {
 	text-align: left;
 }
 
+.col-sm-3 {
+	text-align: left;
+}
 
 .col-sm-4 h4 {
 	text-align: center;
@@ -208,11 +211,12 @@ section {
 	text-align: left;
 }
 
+.col-sm-6 input {
+	margin-top: 10px;
+}
+
 .col-sm-6 {
 	text-align: left;
 	padding-left: 0px;
 	padding-right: 0px;
-}
-
-.row {
 }
